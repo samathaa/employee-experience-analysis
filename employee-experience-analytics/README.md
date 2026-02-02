@@ -29,16 +29,16 @@ Public employee reviews dataset (120k+ records) including:
 ## Visualizations
 
 ### Correlation Heatmap
-![heatmap](images/correlation_heatmap.png)
+![heatmap](https://github.com/samathaa/employee-experience-analysis/blob/main/employee-experience-analytics/images/feature-importance.png)
 
 ### Sentiment by Rating
-![sentiment](images/sentiment_boxplot.png)
+![sentiment](https://github.com/samathaa/employee-experience-analysis/blob/main/employee-experience-analytics/images/sentiment-plot.png)
 
 ### Feature Importance
-![importance](images/feature_importance.png)
+![importance](https://github.com/samathaa/employee-experience-analysis/blob/main/employee-experience-analytics/images/feature-importance.png)
 
 ### Confusion Matrix
-![confusion](images/confusion_matrix.png)
+![confusion](https://github.com/samathaa/employee-experience-analysis/blob/main/employee-experience-analytics/images/confusion-matrix.png)
 
 ## Business Impact
 This framework helps People Analytics teams:
@@ -53,3 +53,4 @@ Python, Pandas, Scikit-learn, NLP, Matplotlib, Seaborn
 ## How to Run
 pip install -r requirements.txt  
 Run notebook in notebooks/
+
