@@ -4,7 +4,7 @@
 Analyze employee reviews to identify drivers of workplace dissatisfaction and build a predictive model to detect at-risk employees early.
 
 ## Dataset
-Public employee reviews dataset (120k+ records) including:
+Public employee reviews dataset (86k+ records) including:
 - Structured ratings (work-life balance, growth, salary, satisfaction)
 - Text feedback (likes/dislikes)
 
